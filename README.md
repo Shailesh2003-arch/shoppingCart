@@ -42,5 +42,4 @@ A simple product cart application that allows users to add products to a cart an
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: thoratshailesh220@gmail.com
