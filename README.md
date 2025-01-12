@@ -22,7 +22,7 @@ A simple product cart application that allows users to add products to a cart an
 ## 🎯 How It Works
 
 1. **User Interface of the Application**  
-   ![User Interface](./image-for-ref/products-listing.png)
+   ![User Interface](./image-for-ref/Products-listing.png)
 
 2. **Add a Product to the Cart**  
    ![Product Added](./image-for-ref/product-1-added.png)
