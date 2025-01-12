@@ -30,6 +30,32 @@ html {
   margin-bottom: 1rem;
 }
 
+.product {
+  background-color: #586163;
+  padding: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.product button {
+  background-color: rgb(59, 161, 45);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 10px 15px;
+  color: #f1f1f1;
+  font-size: 14px;
+  transition: background-color ease-in-out 0.3s;
+}
+
+.product button:hover {
+  background-color: rgb(41, 112, 31);
+}
+
 #checkout-btn {
   background-color: rgb(59, 161, 45);
   margin-top: 1.5rem;
@@ -43,10 +69,18 @@ html {
   transition: background-color ease-in-out 0.3s;
 }
 
+#cart-items {
+  margin-bottom: 20px;
+}
+
+#cart-items p {
+  margin-top: 1rem;
+}
+
 #checkout-btn:hover {
   background-color: rgb(41, 112, 31);
 }
 
-/* .hidden {
+.hidden {
   display: none;
-} */
+}
