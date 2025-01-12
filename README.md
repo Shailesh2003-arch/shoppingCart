@@ -28,13 +28,13 @@ A simple product cart application that allows users to add products to a cart an
    ![Product Added](./image-for-ref/Product-1-added.png)
 
 3. **Multiple Products Added to the Cart**  
-   ![Multiple Products](./image-for-ref/Products-added.png)
+   ![Multiple Products](./image-for-ref/products-added.png)
 
 4. **Checkout**  
    ![Checkout](./image-for-ref/checkout.png)
 
 5. **Checkout Successful Alert**  
-   ![Checkout Successful](./image-for-ref/checkout-successful.png)
+   ![Checkout Successful](./image-for-ref/checkout-succesful.png)
 
 ---
 
