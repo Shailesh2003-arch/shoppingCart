@@ -4,11 +4,22 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Shopping Cart</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="conatiner">
+    <div class="container">
       <h2>Products</h2>
+      <div class="product-list">
+        <!-- here will dynamically add products using js -->
+      </div>
       <h3>Shopping Cart</h3>
+      <div class="cart-items">
+        <p>Your cart is empty.</p>
+      </div>
+      <div id="cart-total" class="hidden">
+        <p>Total: <span id="total-price">$0.00</span></p>
+        <button id="checkout-btn">Checkout</button>
+      </div>
     </div>
   </body>
 </html>
